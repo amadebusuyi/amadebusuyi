@@ -10,7 +10,7 @@
 
 <image align="right" src="https://png.pngtree.com/png-vector/20190611/ourmid/pngtree-web-development-illustration-modern-can-be-used-for-landing-pages-web-png-image_1496210.jpg">
 
-<h4>A credible web developer passionate about consistent learning with over 16 months’ working experience building enterprise grade web applications.</h4> 
+<h4>A credible web developer passionate about consistent learning with over 16 months working experience building enterprise grade web applications.</h4> 
 
 #### Technologies include:
 ##### Front End
