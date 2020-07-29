@@ -23,8 +23,7 @@
 - MySQL, CloudSQL, PostgreSQL, SQLite, Firebase Firestore and Realtime DB, 
 
 ##### Hosting 
-- Google Cloud Platform
-- Digital Ocean
+- Cloud Hosting - Google Cloud Platform, Digital Ocean, Firebase
 - Cpanel and WHM hosting
 
 ##### Development Concepts
