@@ -1,7 +1,9 @@
 ### Hi there 👋
-
+### I am Adebowale and it's good to have you here.
 <!--
 **amadebusuyi/amadebusuyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I am a software engineering and my stack include HTML5, CSS3, JavaScript, PHP (and Laravel Framework), Python (and Django Framework), NodeJs, ExpressJs, MySQL, SQLite, Firebase, GCP
 
 Here are some ideas to get you started:
 
