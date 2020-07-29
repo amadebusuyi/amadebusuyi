@@ -1,3 +1,4 @@
+<div align="center">
 ### Hi there 👋
 ### I am Adebowale and it's good to have you here.
 <!--
@@ -8,5 +9,7 @@
 
 A credible web developer passionate about consistent learning with over 16 months’ working experience building enterprise grade web applications. 
 
--Technologies include:
--HTML5, CSS3, JavaScript, PHP (and Laravel Framework), Python (and Django Framework), NodeJs, ExpressJs, MySQL, SQLite, Firebase, GCP, Vue Js
+#### Technologies include:
+HTML5, CSS3, JavaScript, PHP (and Laravel Framework), Python (and Django Framework), NodeJs, ExpressJs, MySQL, SQLite, Firebase, GCP, Vue Js
+
+</div>
