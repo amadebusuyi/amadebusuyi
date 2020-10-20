@@ -13,8 +13,12 @@
 <h4>A credible web developer passionate about consistent learning with over 16 months working experience building enterprise grade web applications.</h4> 
 
 #### Technologies include:
+
 ##### Front End
-- HTML5, CSS3, JavaScript, Vue Js, Bootstrap, JQuery, Material Design
+- HTML5, CSS3, JavaScript, Vue Js, ReactJs, Bootstrap, JQuery, Material Design
+
+##### Template Engines
+- EJS, PUG JS, Template7
 
 ##### Back End
 - PHP (and Laravel Framework), Python (and Django Framework), NodeJs, ExpressJs
@@ -23,11 +27,14 @@
 - MySQL, CloudSQL, PostgreSQL, SQLite, Firebase Firestore and Realtime DB, 
 
 ##### Hosting 
-- Cloud Hosting - Google Cloud Platform, Digital Ocean, Firebase
+- Cloud Hosting - Google Cloud Platform, Amazon Web Service, Digital Ocean, Firebase
 - Cpanel and WHM hosting
 
 ##### Development Concepts
-- Agile development
+- Continuous Integration
 - CRUD REST API
+
+##### Others
+- Rapid prototyping and UI/UX design (Adobe XD, Sympli, Figma, Trello, Miro)
 
 </div>
