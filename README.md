@@ -24,7 +24,7 @@
 - NodeJs, ExpressJs, PHP (and Laravel Framework), Python (and Django Framework)
 
 ##### Databases
-- MySQL, CloudSQL, PostgreSQL, SQLite, Firebase Firestore and Realtime DB, 
+- SQL and NoSQL databases, 
 
 ##### Hosting 
 - Cloud Hosting - Google Cloud Platform, Microsoft Azure, Amazon Web Service, Digital Ocean
