@@ -10,7 +10,7 @@
 
 <image align="right" src="https://png.pngtree.com/png-vector/20190611/ourmid/pngtree-web-development-illustration-modern-can-be-used-for-landing-pages-web-png-image_1496210.jpg">
 
-<h4>A credible web developer passionate about consistent learning with over 16 months working experience building enterprise grade web applications.</h4> 
+<h4>A credible web developer passionate about consistent learning with over 2 years experience</h4> 
 
 #### Technologies include:
 
@@ -21,13 +21,13 @@
 - EJS, PUG JS, Template7
 
 ##### Back End
-- PHP (and Laravel Framework), Python (and Django Framework), NodeJs, ExpressJs
+- NodeJs, ExpressJs, PHP (and Laravel Framework), Python (and Django Framework)
 
 ##### Databases
 - MySQL, CloudSQL, PostgreSQL, SQLite, Firebase Firestore and Realtime DB, 
 
 ##### Hosting 
-- Cloud Hosting - Google Cloud Platform, Amazon Web Service, Digital Ocean, Firebase
+- Cloud Hosting - Google Cloud Platform, Microsoft Azure, Amazon Web Service, Digital Ocean
 - Cpanel and WHM hosting
 
 ##### Development Concepts
@@ -35,6 +35,6 @@
 - CRUD REST API
 
 ##### Others
-- Rapid prototyping and UI/UX design (Adobe XD, Sympli, Figma, Trello, Miro)
+- Rapid prototyping and UI/UX design (Adobe XD, Sympli, Miro etc)
 
 </div>
