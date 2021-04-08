@@ -21,18 +21,20 @@
 - EJS, PUG JS, Template7
 
 ##### Back End
-- NodeJs, ExpressJs, PHP (and Laravel Framework), Python (and Django Framework)
+- NodeJs, ExpressJs, PHP (and Laravel Framework)
 
 ##### Databases
-- SQL and NoSQL databases, 
+- SQL and NoSQL databases such as MySQL, SQLite, MongoDB, Firestore, Realtime Database
 
 ##### Hosting 
-- Cloud Hosting - Google Cloud Platform, Microsoft Azure, Amazon Web Service, Digital Ocean
+- Cloud Hosting - Google Cloud Platform, Microsoft Azure, Amazon Web Service, Digital Ocean...
 - Cpanel and WHM hosting
 
 ##### Development Concepts
-- Continuous Integration
-- CRUD REST API
+- Continuous Development/Continuous Integration
+- API development
+- Version control
+- Microservices
 
 ##### Others
 - Rapid prototyping and UI/UX design (Adobe XD, Sympli, Miro etc)
